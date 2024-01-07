@@ -27,7 +27,7 @@ const About = () => {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          C#, .NET, Azure, React, Next.js, Node.js, and MongoDB
+          C#, .NET, Azure, React, Next.js, Node.js, and PostgreSQL
         </span>
         . I am also familiar with CI/CD. I am always looking to
         learn new technologies. I am currently looking for a{" "}
